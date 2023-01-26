@@ -14,7 +14,7 @@ mic = sr.Microphone(device_index=1)
 
 conversation = ""
 user_name = "You"
-bot_name = "Jarvis"
+bot_name = "Steak"
 
 while True:
     with mic as source:
